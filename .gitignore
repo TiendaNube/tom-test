@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # file 
-my_darkest_secret.txt
+/my_darkest_secret.txt
